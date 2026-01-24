@@ -38,6 +38,6 @@ class Program
 
     static void DisplayResult(string name, int squaredNumber)
     {
-        Console.WriteLine($"{name}, the square of your number is {squaredNumber}");
+        Console.WriteLine($"{name}, the square of your number is {squaredNumber}"); lock h
     }
 }

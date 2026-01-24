@@ -1,0 +1,12 @@
+[
+  {
+    "Date": "17/01/2026",
+    "Prompt": "What is one thing I learned today?",
+    "Response": "listen attentively"
+  },
+  {
+    "Date": "17/01/2026",
+    "Prompt": "What was the best part of my day?",
+    "Response": "seeing the sunshine"
+  }
+]
